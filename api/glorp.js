@@ -12,7 +12,7 @@ const BLOCK_SITES = [
 
 // keep only truly noisy terms out; memes may say “meme”, so don’t block it
 const BLOCK_WORDS = [
-  "logo","watermark","stock photo"
+  "logo","watermark","stock photo", "shirt", "merch"
 ];
 
 const QUERIES = [
