@@ -16,14 +16,9 @@ const BLOCK_WORDS = [
 ];
 
 const QUERIES = [
-  "green cat meme",
-  "alien cat meme",
+  "glorp",
   "glorp cat",
-  "space cat green meme",
-  "green glowing cat",
-  "weird green cat face",
-  "alien looking cat",
-  "green cat antenna meme"
+  "glorp meme"
 ];
 
 // Static fallbacks (try to use direct image links)
