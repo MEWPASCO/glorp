@@ -24,9 +24,9 @@ const QUERIES = [
 // Static fallbacks (try to use direct image links)
 const FALLBACKS = [
   // add any of your own direct-image URLs here too
-  "https://i.imgur.com/OrRxe1y.jpeg",
-  "https://i.imgur.com/VKv0R8f.jpeg",
-  "https://i.imgur.com/lq3wMoK.jpeg"
+  "https://media.tenor.com/4Od0NUWfA54AAAAe/glorp.png",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQkOG_QEpYsJua6QOTk0AYVUCSnR1LDDrJA&s",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69z01TDwMjp_zoc-sYW0gpEPVTYI-c96vBQ&s"
 ];
 
 function pick(arr){ return arr[Math.floor(Math.random()*arr.length)]; }
